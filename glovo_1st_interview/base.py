@@ -1,7 +1,7 @@
 """
-project_name base module.
+glovo_1st_interview base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the glovo_1st_interview project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
